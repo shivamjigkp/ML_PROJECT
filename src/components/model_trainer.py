@@ -103,17 +103,10 @@ class ModelTrainer:
 
             save_object(
                 file_path=self.model_trainer_config.trained_model_file_path,
-                obj=best_model
-            )
-
+                obj=best_model )
             predicted=best_model.predict(X_test)
-
             r2_square = r2_score(y_test, predicted)
-            return r2_square
-            
-
-
-
+            return r2_square  # ← ye add karo
             
         except Exception as e:
             raise CustomException(e,sys)

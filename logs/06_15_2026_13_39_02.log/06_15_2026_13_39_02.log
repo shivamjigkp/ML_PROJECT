@@ -1,0 +1,12 @@
+[ 2026-06-15 13:39:02,386 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-06-15 13:39:02,399 ] 97 werkzeug - INFO -  * Debugger PIN: 588-769-982
+[ 2026-06-15 13:39:15,859 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2026 13:39:15] "GET / HTTP/1.1" 200 -
+[ 2026-06-15 13:39:15,967 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2026 13:39:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2026-06-15 13:41:37,000 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2026 13:41:37] "[33mGET /predictdat HTTP/1.1[0m" 404 -
+[ 2026-06-15 13:41:40,514 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2026 13:41:40] "GET /predictdata HTTP/1.1" 200 -
+[ 2026-06-15 13:41:58,405 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2026 13:41:58] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2026-06-15 13:41:58,644 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2026 13:41:58] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2026-06-15 13:41:58,644 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2026 13:41:58] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2026-06-15 13:41:58,741 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2026 13:41:58] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=U3pqnkWKCYabVzuUffX9 HTTP/1.1" 200 -
+[ 2026-06-15 13:41:58,764 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2026 13:41:58] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2026-06-15 13:43:15,618 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\shiva\\OneDrive\\Desktop\\coding by shivam\\gitrepoall\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading

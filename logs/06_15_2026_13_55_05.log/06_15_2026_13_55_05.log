@@ -1,0 +1,3 @@
+[ 2026-06-15 13:55:05,626 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-06-15 13:55:05,641 ] 97 werkzeug - INFO -  * Debugger PIN: 588-769-982
+[ 2026-06-15 13:55:07,771 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\shiva\\OneDrive\\Desktop\\coding by shivam\\gitrepoall\\ml_project\\src\\components\\model_trainer.py', reloading
